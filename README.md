@@ -89,4 +89,4 @@ smart-ed/
 
 ---
 
-Built with ❤️ for Smart-ED
+Built by Lokesh Bharambe 
